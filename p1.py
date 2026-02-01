@@ -1,1 +1,1 @@
-print("cyberbot-core UPDATE")
+print("cyberbot-core FIX")
