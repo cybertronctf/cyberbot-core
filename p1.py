@@ -1,1 +1,1 @@
-print("cyberbot-core FINAL")
+print("cyberbot-core FINAL FIX")
