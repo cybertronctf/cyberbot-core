@@ -1,1 +1,1 @@
-print("cyberbot-core INSERT")
+print("cyberbot-core UPDATE")
