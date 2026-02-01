@@ -1,1 +1,1 @@
-print("cyberbot-core REINSERT")
+print("cyberbot-core UPDATE2")
