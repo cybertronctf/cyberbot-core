@@ -1,1 +1,0 @@
-print("cyberbot-core FIX2")
